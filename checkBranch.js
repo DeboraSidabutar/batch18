@@ -1,2 +1,2 @@
-console.log("Ini Branch 1");
+console.log("Kucingku namanya Lolo kerjanya hanya tidur");
 
